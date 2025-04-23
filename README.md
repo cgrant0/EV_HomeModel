@@ -122,10 +122,6 @@ Given the ability to contiune working on the tool, there are a few areas to impr
 - Data display: There's a bit too much going on at the moment, prioritize only relevant battery data moving forward. 
 - Long term ideas: Matter system integration, better power company and pricing model information, exact battery characteristics from Hyundai or elsewhere, more exploration of custom energy use profiles. 
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Energy data sourced from public utilities
